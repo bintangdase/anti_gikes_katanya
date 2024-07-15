@@ -11,7 +11,7 @@ BOT_WORKERS = int(os.environ.get("BOT_WORKERS", "4"))
 APP_ID = int(os.environ.get("APP_ID", "27057469"))
 API_HASH = os.environ.get("API_HASH", "4244e8924b0cb5c6e061b4767bc8b003")
 
-LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1002227725928"))
+LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1002214254535"))
 
 MONGO_DB_URI = os.environ.get("MONGO_DB_URI", "mongodb+srv://ankes:apaanke1@antkes.hxaq4uq.mongodb.net/?retryWrites=true&w=majority&appName=antkes")
 DB_NAME = os.environ.get("DB_NAME", "suckkmydicks")
